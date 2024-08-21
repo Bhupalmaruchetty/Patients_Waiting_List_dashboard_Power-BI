@@ -173,7 +173,8 @@ Use the aggregated data to make informed decisions that improve patient care and
 
 **Snapshot2:Detailed**
 
-![Screenshot 2024-08-20 192215](https://github.com/user-attachments/assets/25f444cb-15a1-4343-b258-2377a142f090)
+![Screenshot 2024-08-21 114806](https://github.com/user-attachments/assets/7eb97c73-3f4d-4f48-b167-b85ea75df0d2)
+
 
 **Snapshot3:DrillDown**
 
